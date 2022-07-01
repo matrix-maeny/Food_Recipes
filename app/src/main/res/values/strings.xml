@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Food Recipes</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="su_already_have_an_acc">Already have an account? Log in</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="lg_dont_have_an_acc">Don\'t have an account? Sign up</string>
+    <string name="login">LOGIN</string>
+    <string name="firebase_users">Users</string>
+    <string name="firebase_posts">Posts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="post">Post</string>
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="enter_title">Enter title…!</string>
+    <string name="enter_tag_line">Enter Tag line..! (to attract viewer)</string>
+    <string name="food_recipe_title">Food Recipe Title :</string>
+    <string name="tag_line">Tag Line :</string>
+    <string name="required_ingredients">Required Ingredients :</string>
+    <string name="enter_ingredients">Enter Ingredients…!</string>
+    <string name="enter_procedure">Enter procedure..!</string>
+    <string name="procedure_to_be_followed">Procedure to be followed :</string>
+    <string name="any_other_instructions">Any other Instructions :</string>
+    <string name="additional_instructions">Additional instructions..! (optional)</string>
+    <string name="additional_instructions_pv">Additional Instructions :</string>
+    <string name="like">Like</string>
+    <string name="dislike">Dislike</string>
+    <string name="enter_comment">Enter comment..!</string>
+    <string name="go">Go</string>
+    <string name="about_">Hi, I\'m Matrix.\n\nThe app which \'Food Recipes\', which you are using now is an online app to publish recipes.\n\nBy registering in this app, you are able to publish your own recipes.\n\nUsers can like, comment your recipes.\n\nYou can search and save desired recipe permanently.\n\n\nSerial no: 42\nDate of creation: 10 June 2022\nContact us: matrixinventions@gmail.com</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426537275186",
+    "project_id": "food-recipes-862ca",
+    "storage_bucket": "food-recipes-862ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426537275186:android:e58d1a310f8d1c8a0b512b",
+        "android_client_info": {
+          "package_name": "com.matrix_maeny.foodrecipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426537275186-ktceaca2303dbpllmr9me72ftgvkmlpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJJIRc_JTaQNlbY5rp4npwry7y_NUvLP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426537275186-ktceaca2303dbpllmr9me72ftgvkmlpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
